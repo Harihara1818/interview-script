@@ -1,0 +1,566 @@
+About me
+
+Devops Definitions & Path
+Cloud Experience
+CI/CD
+Infrastructure as code
+Scripting - Shell / Powershell / Python
+Containers
+Hadoop Experience
+Big Data
+Version Control
+Deployment Strategies
+Configuration Management & Application Automation
+Monitoring tools - Splunk
+Monitoring Tools - ELK
+Monitoring Tools - New Relic
+Powered by GitBook
+About me
+About me
+​
+
+About me for Devops & Cloud. 
+
+I am currently working as a Devops , Cloud & Automation Specialist 
+
+I am responsible for Cloud Implementations, Cloud Migrations ,Support & Security. I have hands on Cloud platforms AWS & Azure.  
+I am from Cloud Engineering & Automation team. My team is Responsible for end to end Automation and cloud support.   
+We have our Cloud Footprint on both AWS & Azure. I am responsible 
+        a. For writing Complete Infrastructure as a code using Terraform
+        b. Configuring Cloud Networks and connecting with On-Prem. 
+        c. Responsible for Complete CI/CD , Creating Pipeline as a Code and integrating tools like  Maven for Java , MS Build for .net and npm for Angular projects, pip for python.
+       d.  Also Responsible for Testing Code Quality using Sonar Qube and checkmarx.  
+       f. Responsible for Writing Ansible Playbooks and Ansible roles for doing configuration Management. 
+       h. Responsible for working with Application teams and writing Docker files starting from scratch for the Application which needs migration to Kubernetes.  
+At this Point in our Organization, we are doing a Huge Migration of our Datacenters to Cloud. In this Process we are doing Lift & Shift Migrations and some of the things we are refactoring and redesigining some of the Applications in Cloud using the Cloud Native and latest features. I am Responsible for Creating Several Automations and support in Migration of Various Applications on the AWS & Azure. 
+I have hands on writing Docker files starting from scratch and archestrate Docker files on kubernetes Platforms like AKS, EKS. 
+I work very closely with Development teams and involve and help in all phases of SDLC Process, I involve from Design Phase to the Post Implementation, Automation & Support Phases as well. 
+In Scripting, I have hands on Shell Scripting/Powershell, Python Data Structures. 
+On the Monitoring side, i have experience working with Nagios, Splunk, ELK, Prometheus , Grafana, New Relic. 
+Overall this is about me at a High level, I will be open for any questions. 
+
+----------------------
+
+About me for SRE
+
+I am currently working as a SRE & Cloud Architect 
+
+I am responsible for Governing the entire CLoud Infrastructure and Accounts , Help teams in Doing Cost Management on CLoud. 
+I help our Enterprise IT teams in implementing new solutions on the Cloud and responsible for defining and desining a Migration Path from Onprem to Cloud. 
+We have our Cloud Footprint on both AWS & Azure. I am responsible for End to End Automation on Cloud with respect to build and release, cloud infrastructure provisioning using terraform.   
+I have hands on infrastructure as a code using terraform, Cloud formation & Azure ARM templates. 
+I am responsible for Cloud Automation , Cloud Security, Cost Management and Cloud Integrations with internal and external Tools. 
+At this Point in our Organization, we are doing a Huge Migration of our Datacenters to Cloud. In this Process we are doing Lift & Shift Migrations and refactoring and redesigining some of the Applications in CLoud using the CLoud Native and latest features. 
+I am Responsible for Creating Several Automations and support in Migration of Various Applications on the AWS & Azure. 
+I have complete hands on CI/CD Projects, Build and Release Automation, Unit testing, Security testing, Deployments and i have hands on tools like Jenkins/Azure Devops/Gitlabs/Code Pipeline etc.
+One of my key role is to understand the Applications and help Converting Monolithic Applications to Microservices using Docker and help running the containers on Kubernetes. 
+I have experience working with On-Prem Kubernetes, Managed Services like AKS & ACR in Azure, EKS & ECR in AWS. I have experience writing Docker files, Creating Pods, Deployments, Replicas etc etc. 
+I work very closely with Development teams and involve and help in all phases of SDLC Process, I involve from Design Phase to the Post Implementation, Automation & Support Phases as well. 
+In Scripting, I have hands on Shell Scripting/Powershell, Python Data Structures & Python Flask.
+On the Monitoring side, i have experience working with Nagios, Splunk, ELK, Prometheus , Grafana, New Relic. 
+​
+
+Day to Day Activities 
+
+I am Developer Administrator , 70% of doing Developments on Devops Projects, Doing Research and responsible for Cloud Migrations & Planning & 30-40% is Gatekeeping the Production Support. 
+In Devops Work, i work on Several User stories, Several tasks,  on New AUtomations, CHanges to Pipelines, Executing & MOnitoring Monthly/Weekly/Daily Builds. 
+I do the Release Management work using Jenkins. 
+I am responsible for Ensuring that Monitoring is Done on Each Asset and Ensure we are getting the logs. 
+25% of my work is on exploring new Technologies and doing POC on new tickets and Provide the Feedback and Make Production Ready APplications. 
+Day starts with Checking the tickets, Responding to them and Gatekeeping Production Environment. 
+General
+
+Tell me about a time where your Opinion is discarded by everyone and how did you handle it. 
+Answer:- Cant able to recollect a time, but this happens most of the times where several good opnions get discarded during the work time because of various reasons, rather than taking the situation Neghatively , Its important that we stay positive and understand the situation and listen to the other person opinion if its right and be patient and when time comes, we have a chance to tell our view point with strong justification and reasoning. 
+
+Tell me about a time you had disagreement with an employee and how did you resolve it.  
+        Answer:-  This happens almost every day as every has thier own opinion of solving problems. Talking about an example is that i had a disagreement about the Implementation of our Core Automation Workflow using the CI/CD Tools. I had 2-3 ways in my mind and my manager had a different opinion in mind. We want to solve the Problem with Security as there were too many security incidents in our Cloud Eco-system. 
+
+        I had come up with the idea of build a Proactive System to do a continous Posture assessment on Cloud and the automation ensure thats the resources are provisioned ensuring that if anyone is voilating the Security Regulations , I have done the Proof of concept and shown this to my Leader. 
+
+However My peer also had a approach to present a reactive way to solve the problem that will identify any misconfiguration and autofix. 
+
+In Reality both solutions are correct , However there was a disagreement of one is better over other.  The Problem solved using my method as my Managment is convinced to have a Proactive Approach. 
+
+About my Current Projects
+
+i work for Projects relating to Enterprise IT , Most of the Projects are either ETL, Data Lake etc. 
+
+Project 1 --> ETL Solution 
+
+I worked for the ETL Applicatoin (Extract , Transform, Load )
+Here we get the files from the S3 Bucket as an INput , the Application does the transforamtion using java and python machine learning and does the dataload in the Aurora Database. 
+THis Application is deployed in AWS, has a Python as business logic and database oracle rds as a backend. THe Application is using containerization and deployed on the AWS EKS platform. 
+We Do the Extraction from the data kept in sftp/s3 bucket, this data is unstructured data. 
+the Applicaation reads the data in s3 bucket, applies some machine level algorithms and do the Data prediction. 
+Here we use Project Anaconda/Jupyter/Hadoop cluster and the Data is read from the bucket is converted to structurd format 
+the Structured data is sent back to RDS and the Frontend ui will do the ANlaytics and ML Capabilities and show the data. 
+My Responsibility is manage the AWS infrastrucutre/Monitor the Resources/ Provide Production Support.  
+
+
+Next
+Devops Definitions & Path
+
+
+
+
+
+What is Devops according to you ? 
+
+Answer:- With Devops Organizations can  streamline thier whole IT Process using Automation and minimize the IT Efforts and staff by replacing them with Robots and Software. while there are pros and cons to this in my view its a problem solving skill. 
+
+
+In Reality we have different Phases during Software Development life cycle,  like Plan, Code build , Package, Test, Deploy, Monitor and security lies at every stage in the whole Process, however we have certain important elements to practise these called CI/CD/CF 
+
+What is CI (Continous integration) 
+
+            Lets say you have multiple developers in your team working on bugs and each person is contributing to the same application by pushing thier code on a version control system like github/svn. When a developer pushes a change to the Code to the Code Repository it is linked to a build Management System like Jenkins/Azure Devops which is responsible for packing the code, eg:- In case of java, you can think of a jar file. Since Multiple Developers are working on same Application, we need to ensure that it builds correctly and does not introduce any new issues during build phase.   "This Process of Enabling Multiple Developers to work seemlessly on the same Application without stepping on each other's toes and ensuring that new changes integrate with Application without introducing any new issues is called continous integration"
+
+Eg of CI tools :- Jenkins , Azure Devops, Code Pipeline etc. 
+
+Eg of Builds  :- For Java its Maven, Gradle, Ant 
+
+                          For Python its PIP , For Angular/Node js its NPM, For .net it is MS Build. 
+
+
+What is CD (Continous Delivery) 
+
+       Once .the Buges are fix and the build is validated, its time for creating a shippable , ready product to be deployed whereever possible,  Continous delivery is a form of a Creating a Software shippable product to be able to deploy on a Production Environment.  When you say its continous , it means you are automating the Process by using a event based mechanism that can understand the Code Commits on a Release branch and run the delivery process.  In Short "Releasing a Software by an Automated Pipeline is called Continous Delivery" . The Shippable products are typically placed in a Centralized Location called "Artifactory" and the shippable products or software are called "Artifacts" , sometimes if these are docker images, they can be placed in "Secure Private Docker Registry like ECR/ACR" 
+
+What is CD (Continous Deployment) 
+
+     "The Process of taking a shippable product or the software and deploying that on a Environment (Production/Non Production) which can be a either an On-Prem data center or a Public/Private Cloud using a Automated Pipeline is called Continous Deployment"
+
+​
+
+
+​
+
+DevSecOps 
+
+
+
+
+
+
+
+
+
+CI/CD
+**CI/CD
+1. I help teams in different forms of the CI/CD , One of my key responsibilites is to mature the process using Automation. 
+
+2. I help the teams in Creating Automated Parameterized Pipleines Continous Integration(CI) / Continous Delivery (CD) / Unit testing using Sonar and Selinum / Security testing using Fortify etc. Deployments using Ansible on Linux and Powershell remoting on windows.
+
+ 3. i have experience working with Groovy , pipeline syntax and create scripted/Declarative Pipelines.
+4. I have experience making the CI/CD as automated by creating the webhooks for seemless integration on version control and CI/CD. 
+
+5. I have strong experience in Jenkins in configuring several jobs , free style projects, conditional pipelines, building with multiple branches and so on.
+
+ 6. I have strong experience also in Azure devops usuing Azure Repos(Git)/ Azure Build and Release pipelines / Azure Test Plans for automated testing/ Azure Artifacts. 
+
+7. In the Build process i used various technologies eg:- .net based applications we used MSBuild and Nuget based .net artifacts. Angular Based Apps we used npm , here we do npm install , npm build-prod Java based we used remote maven artifact feeds. , here we do mvn validate, mvn compile , mvn test , mvn install. here we can configure a local or remote maven depending upon the requirement. Python based using Pip.
+
+​
+
+Example of a CI Pipeline
+
+ My CI Pipeline looks like , its a 5 staged pipeline. 
+
+Stage 1 --> Code Checkout.Here we do the Code checkout from the version control
+
+Stage 2 --> Code Build / Artifact creation. This is the Place we do the Artifact creation i.e war/jar/ear/zip/bin etc. 
+
+Stage 3 --> Upload Artifact Here is the Point where we upload the artifact to artifactor like Jfrog artifactory/ Nesus Repository. Here we use curl command in a combinatio nwith Authentication token. 
+
+Stage 4 --> Docker image creation. Here we checkout the Dockerfile code from the Devops git and from the artifact that is created in previous step. 
+
+we create a docker image from the dockerfile by copying the artifact to the image. 
+
+Stage 5 --> upload image to the Docker Registry Once the image is created , you can upload it to the ECR(AWS-Elastic Container Registry)/ACR(Azure Container Registry)
+
+
+
+
+
+
+
+
+Azure Devops
+I have strong experience and expert in writing Complete Build and Release Pipelines starting from scratch. 
+
+I have written lot of pipelines for Muliple Services in Azure like VM, Webapps, Datafactory pipelines , Databricks Cluster pipelines and etc. I have also build multiple pipelines for infrastructure as code integrating Azure Devops with Terraform and also integrating Azure Devops with tools like Azure ARM templates. 
+
+In Addition to that i also wrote Pipelines for Azure Policy Enforcement to Safe guard the environment by enabling Audit or deny or Deploy Policies. 
+
+I have also written Pipelines for the Azure DataLake ETL Pipelines too. 
+
+The way that Azure Devops works is like , You have builds & Releases. 
+
+Coming to Builds 
+
+        - In Builds we integrate with Github/Azure Repos where our source code repo is and create an empty job / yaml format of the pipeline to write the build structure, in this case, we choose multiple plugins like example  if its .net, we can integrate with MSBuild or Nuget , if its a Python we integrate with PIP, if its a Angular Project we integrate with NPM, if its a java we integrate with Maven. 
+
+      - Ultimately at the end, what we generate is called a Artifact called Build artifact or a Packaged version of the code.  The output of build pipeline is an input to your release pipeline. 
+
+Coming to Releases
+
+        - In Releases, Step 1 is that the output of build pipeline is an input to your release pipelines, we start from the artifact and we build the pipeline in yaml or a free style empty job and Create workflow and tasks. In Workflow you can build a workflow from Dev --> QA --> Prod type. You can write stages in each part of the workflow, like we can write 3 tasks in a Dev , 5 tasks in QA, 3 tasks in Prod. 
+
+      - Basically in Dev , we do the deployment on the Development instances, Here we dont do any sot of unit testing, security tests etc. 
+
+      - Basically in QA, we do the deployment on the QA Environment, QA Environment is like equivalent to Production, After we deploy in QA, We do the Several tests , 
+
+                   1 -> Smoke testing (this is to test if Application url is working or not, this checks HTTP 200 ) 
+
+                    2-->  Unit tests ( this is to test the Actual Application with the functionality of the Application ) , typically the test cases for these are written and given by QA teams , we include this as a part of the Application testing directly, this uses Sonar Qube or Azure Manual or Automated Test Plans. 
+
+                     3 -> We Do Security testing using HP Fortify on Demand and check if the Code is developped according to the best coding standards or not. 
+
+​
+
+I have complete hands on all of these things.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Terraform
+​
+
+I have around 1 1/2 years of experience and i have hands on Writing Infrastructure as a code using Terraform for building Dev, Staging, Prod and DR environments starting from scratch. 
+I have written Modules and templates in terraform to provision various resources in Cloud.
+I have integrated with CI/CD tools like Jenkins, Azure Devops to provision the infrastructure. 
+I have used Terraform versions starting from terraform 8 and now terraform 16 version.
+I have used terraform remote backend to use the statefiles stored in an S3 Bucket. 
+Tell me How terraform works 
+
+    a. Basic Terraform code has 4 different sections, the typical extension of a terraform file is ".tf", In a terraform file "main.tf", You will see providers , resources, variables, outputs, datasources. A Provider is meant to me the infrastructure provider like AWS/Azure/GCP etc.  Resource is meant to be the object thats created on the Cloud Platform. Datasource is the Properties of the Resource. Outputs is to print the created elements and its properties, eg:- printing IP of an EC2 after provisioning. 
+
+   b. Terraform has 3 Basic states , i.e terraform init/plan & apply
+
+       "terraform init" --> This is to initialize the terraform, when you execute this command, this will create a .terraform folder in the folder where the main.tf file exists and it will download the provider specific binaries in the folder. 
+
+     "terraform plan" --> This is to print a view of what objects will be created when you run the terraform code. this gives a snapshot of what is going to be created. However it wont create anything. 
+
+    "terraform apply" --> THis is the step where actual infrastructure is created, Once the terraform apply is done, it will create the infrastructure for you. 
+    
+    
+    
+    
+    
+    Containers
+My Responsibility in Docker is to work with Various teams and understand the Application and convert the vm based application to a docker image and scale them and deploy them on the kubernetes cluster like EKS(elastic Kubernetes Service)/AKS(Azure Kubernetes cluster)
+I have handson writing Docker Files starting from scratch, I have experience doing automation around ci/cd for the docker based Applications etc. 
+On Kubernetes, I have knowledge on Creating Pods, Deployments, Replica sets, Pod Autoscaling , Creating Services (NodePort/CLusterIP/Load Balancer) , Kubernetes cronjob, job etc we can do. Apart from this i have good knowledge working with yaml as well.
+
+
+
+
+
+
+Kubernetes
+I have Hands on Kubernetes Creating Pods, Deployments, Replica Sets, Labels, Stateful sets, Daemon Sets, Cronjobs etc. 
+I have used Helm Charts for doing the Deployments. 
+i have Experience with On-Prem Kubernetes Creating Kubernetes cluster with Kubeadm and kubectl and also Hands on with Managed Services like AKS , EKS, GKE 
+I have hands on Kubernetes configs and secrets. 
+I also have experience using service mesh like ISTIO, ENVOY. 
+I have experience with Monitoring Kubernetes cluster with Prometheus, Grafana, Kubernetes CLuster State Monitoring. 
+i also have experience with Security on Kubernetes CLuster using Trend Micro, Twist lock and Azure Security Center. 
+​
+
+Kubernetes Architecture 
+
+
+
+In Kuberentes Architecture, we have 3 Planes. 
+
+Control Pane :-  This Components typically resides in the Kubernetes Master Node. Components that make global decisions on a cluster , for example scheduling , detecting and responding to server events in the K8s Cluster.  
+a. etcd :- Consistent and highly-available key value store used as Kubernetes' backing store for all cluster data.
+b.  api server:-  THis part exposes the API's of Kubernetes,  THis is basically front end of kubernetes cluster.
+c.  kube-schedular:-   This Component schedules all Pods and select and runs the pods where they have to run 
+d. Control Manager:- This is typically an important part and optional,  To Reduce complexity on Kubernetes, Kubernetes has some inbuilt and customized controllers. these are all run and controlled by Control Manager.  Each controller is a different Process. 
+          
+Node controller: For checking the cloud provider to determine if a node has been deleted in the cloud after it stops responding
+Route controller: For setting up routes in the underlying cloud infrastructure
+Service controller: For creating, updating and deleting cloud provider load balancers
+2.   Node Components:- Node components run on every node, maintaining running pods and providing the Kubernetes runtime environment.
+
+   Kubelet :- An Agent that runs on Each Node in the cluster , this makes sure that containers are running in a Pod. 
+
+   Kube-Proxy :-  Its a Network Proxy that runs on each Node in your cluster , Implementing Part of Kubernetes Service Concept. 
+
+   Container Runtime:- Kubernetes follow Docker ,CRI-O, Containerd Run times, this runtime is required for running the Pods. 
+
+3. ADD ONS:- 
+
+Addons use Kubernetes resources (DaemonSet, Deployment, etc) to implement cluster features. Because these are providing cluster-level features, namespaced resources for addons belong within the kube-system namespace.
+
+   kube-dns:- Cluster DNS is a DNS server, in addition to the other DNS server(s) in your environment, which serves DNS records for Kubernetes services.
+
+  web-UI(Dashboard) :- Dashboard is a general purpose, web-based UI for Kubernetes clusters. It allows users to manage and troubleshoot applications running in the cluster, as well as the cluster itself.
+
+Container Resource Monitoring:- Container Resource Monitoring records generic time-series metrics about containers in a central database, and provides a UI for browsing that data.
+
+
+CLuster Level Logging:- A cluster-level logging mechanism is responsible for saving container logs to a central log store with search/browsing interface.
+
+
+ 
+
+​
+
+[root@hsk-controller ~]# kubectl api-resources
+NAME                              SHORTNAMES       KIND
+bindings                                           Binding
+componentstatuses                 cs               ComponentStatus
+configmaps                        cm               ConfigMap
+endpoints                         ep               Endpoints
+events                            ev               Event
+limitranges                       limits           LimitRange
+namespaces                        ns               Namespace
+nodes                             no               Node
+persistentvolumeclaims            pvc              PersistentVolumeClaim
+persistentvolumes                 pv               PersistentVolume
+pods                              po               Pod
+podtemplates                                       PodTemplate
+replicationcontrollers            rc               ReplicationController
+resourcequotas                    quota            ResourceQuota
+secrets                                            Secret
+serviceaccounts                   sa               ServiceAccount
+services                          svc              Service
+initializerconfigurations                          InitializerConfiguration
+mutatingwebhookconfigurations                      MutatingWebhookConfiguration
+validatingwebhookconfigurations                    ValidatingWebhookConfiguration
+customresourcedefinitions         crd,crds         CustomResourceDefinition
+apiservices                                        APIService
+controllerrevisions                                ControllerRevision
+daemonsets                        ds               DaemonSet
+deployments                       deploy           Deployment
+replicasets                       rs               ReplicaSet
+statefulsets                      sts              StatefulSet
+tokenreviews                                       TokenReview
+localsubjectaccessreviews                          LocalSubjectAccessReview
+selfsubjectaccessreviews                           SelfSubjectAccessReview
+selfsubjectrulesreviews                            SelfSubjectRulesReview
+subjectaccessreviews                               SubjectAccessReview
+horizontalpodautoscalers          hpa              HorizontalPodAutoscaler
+cronjobs                          cj               CronJob
+jobs                                               Job
+brpolices                         br,bp            BrPolicy
+clusters                          rcc              Cluster
+filesystems                       rcfs             Filesystem
+objectstores                      rco              ObjectStore
+pools                             rcp              Pool
+certificatesigningrequests        csr              CertificateSigningRequest
+leases                                             Lease
+events                            ev               Event
+daemonsets                        ds               DaemonSet
+deployments                       deploy           Deployment
+ingresses                         ing              Ingress
+networkpolicies                   netpol           NetworkPolicy
+podsecuritypolicies               psp              PodSecurityPolicy
+replicasets                       rs               ReplicaSet
+nodes                                              NodeMetrics
+pods                                               PodMetrics
+networkpolicies                   netpol           NetworkPolicy
+poddisruptionbudgets              pdb              PodDisruptionBudget
+podsecuritypolicies               psp              PodSecurityPolicy
+clusterrolebindings                                ClusterRoleBinding
+clusterroles                                       ClusterRole
+rolebindings                                       RoleBinding
+roles                                              Role
+volumes                           rv               Volume
+priorityclasses                   pc               PriorityClass
+storageclasses                    sc               StorageClass
+volumeattachments                                  VolumeAttachment
+​
+
+Pods & Pod templates 
+Deployments
+Replica sets
+Services 
+namespaces
+Configmaps 
+Secrets 
+Nodes 
+Persistent Volumes 
+Persistent Volume Claims 
+Replication Controllers. 
+Resourcequotas 
+Statefulsets
+Daemonsets
+liveness probe 
+readiness probe 
+HPA(Horizontal Pod Autoscaler)
+jobs
+cronjobs
+ingress controller 
+Network Policies 
+PodSecurity Policies 
+Clusterrolebindings
+Cluster roles 
+roles 
+Volumes 
+Storage Classes 
+Volume Attachments. 
+-----------------
+
+Implementation of Service Mesh (Sample) 
+
+​
+
+---------------- 
+
+Helm Example:- 
+
+
+
+
+
+
+
+
+
+
+
+
+openShift
+Openshift Architecture 
+
+
+​
+
+The Docker service provides the abstraction for packaging and creating Linux-based, lightweight container images. Kubernetes provides the cluster management and orchestrates containers on multiple hosts.
+
+OpenShift Container Platform adds:
+
+Source code management, builds, and deployments for developers
+Managing and promoting images at scale as they flow through your system
+Application management at scale
+Team and user tracking for organizing a large developer organization
+Networking infrastructure that supports the cluster
+Authentication:- Both developers and administrators can be authenticated via a number of means, primarily OAuth tokens and SSL certificate authorization.
+
+Authorization:- Authorization is handled in the OpenShift Container Platform policy engine, which defines actions like "create pod" or "list services" and groups them into roles in a policy document. Roles are bound to users or groups by the user or group identifier. When a user or service account attempts an action, the policy engine checks for one or more of the roles assigned to the user (e.g., cluster administrator or administrator of the current project) before allowing it to continue.
+
+
+
+
+
+
+
+
+Docker
+Have hands on Writing Docker files and creating a Layered Approach for the Docker images which can be a combination of base images vs Application images. 
+Experience in Installing / Configuring & Securing Docker Daemon 
+Have experience and used Docker Compose i.e the Multi Container Technology to Spin up the Complete Environment Dev/Test/Prod/Sandbox. 
+Have experience installing and configuring the Docker Swarm. 
+Experience in Docker Security - Vulnerability assessment on Docker Registries using Twist lock, Trend micro, Azure Security Center etc and driving things to close. 
+Experience in yaml for Docker Compose and swarm Deployments. 
+I have also used Docker enterprise as well. 
+​
+
+Docker Architecture 
+
+Sample Docker file Structure. 
+
+Docker-compose 
+
+Docker-swarm 
+
+
+
+
+
+
+
+
+Deployment Strategies
+​
+
+I have experience with multiple Deployment strategies 
+
+Recreate: Version A is terminated then version B is rolled out.
+Ramped (also known as rolling-update or incremental): Version B is slowly rolled out and replacing version A.
+Blue/Green: Version B is released alongside version A, then the traffic is switched to version B.
+Canary: Version B is released to a subset of users, then proceed to a full rollout.
+A/B testing: Version B is released to a subset of users under specific condition.
+Shadow: Version B receives real-world traffic alongside version A and doesn’t impact the response.
+In Our case, we are using Blue green Deployments in Kubernetes and other ENvironments. 
+
+
+
+
+
+
+
+
+
+
+AWS
+AWS - In AWS i worked for EC2, S3, VPC, Route 53, ELB, Classic Load Balancer, ECR (Elastic Container Registry), ECS (Elastic Container Service), 
+AMI(Amazon Machine Images), cloud watch, cloud trail, configuring the Lamdba functions to make them event driven or schedule driven. 
+In AWS, We Do Solutions Architect Role. i.e we support teams who request a cloud infrstructure in our company standard. 
+our COmpany standard include hosting services only in specific regions, Having a Jump Server to Access any Private instances etc. 
+we Support Monitoring AWS using the Cloud watch,Cloud trail, VPC Flowlogs and identifying the Misconfigurations on Environments using a tool called Prisma Cloud. 
+I also do the Infrastrucutre as a Code using the Cloud Formation as well as Terraform. Mostly Terraform is what i work and have expertise on. 
+In Addition to this, we support some services like API Gateway, AWS Lamdba, AWS QuickSight, Sage Maker etc. 
+I have involved in Complete Implimentation of AWS EKS/ECR etc to Manage our Kubernetes Environments. 
+
+
+
+
+
+
+
+Google Cloud Experience
+​
+
+I have been through the phase of Google Cloud Implimentation from the Begining interacting with Google team 
+creating the Organization and setting up Policies for the Projects and Folders. 
+I have involved and configured the GCP with identity Federation OKTA for NOrmal Users and MFA for Admin Accounts.
+I have involved in the setup of creating the VPC, Shared VPC (Sharing VPC b/w Projects), Security Command Center, Stack Driver logging and etc. 
+I have interacted with Various teams in Creating the DOcker Images and Deploying the containers on the GKE (Google Kubernetes ENgine)
+I have experience working with Kubernetes creting services, Deployments, Replica sets, cronjobs , job pods, init containers, config maps, secrets, policies, helm charts as well. 
+I have experience creating the infrastructure on GCP using Terraform. I have created the VPC, Created the IAM Roles, Managing the Identities. 
+I have experience working with Hashicorp vault in integration to the Google Cloud Platform for integration of our secrets. 
+
+
+
+
+
+
+
+
+
+Azure
+​
+
+In Azure ,i worked on Azure AD, Subscriptions, Management Resource Groups, App Services, VNets, Tunnels, Site Recovery, Vnet Peering, Blob , VM and VM Scalesets, Log Analytics & Secuirity Center, Azure Monitor, Data Factory , Databricks and etc
+I have Complete hands on knowledge on Azure Automation using Azure Powershell and CLI and using Azure Functions. 
+I have hands on Azure Devops building complete CI/CD Pipelines for build, release automation, security testing , unit testing and etc. 
+I am having expertise in IAM ROles, Creating and Managing Custom roles etc. 
+I worked on ENtire Logging solution using Azure Log Analytics and also familiar with KQL Queries. 
+Great Knowledge in Azure Security & Safeguarding with Azure Policies. 
+i worked on building custom policies relating to Compute, Database, Storage etc. 
+On the Containerziation side, i have experieince with DOcker, ACR (Azure Container Registry) , AKS (Azure Kubernetes Services). 
+
+
+
+
+
+
+
+
+
+
+
