@@ -1,0 +1,22 @@
+About me for Devops & Cloud.
+I am currently working as a TechOps , Cloud & Automation Specialist
+
+1. I am responsible for Cloud Implementations, Cloud Migrations ,Support & Security. I have hands on experience on AWS & GCP.
+2. I am from Cloud Engineering & Automation team. I am specialized in end to end Automation and cloud support.   
+3. In my present project, I am responsible for
+	
+   Provisioning infrastructure using CFN CDK(cloud development kit)
+* Provisioning and configuring Openshift namespaces (IaC), by the way we use openshift for container orchestration.
+* I am also responsible for create/maintain/improve Complete CI/CD, Currently using Jenkins and integrating tools like Gradle for Angular-spring-boot applications, maven for java and we use sonar-Qube for code quality testing
+* I am responsible for Troubleshooting build, deployment and environment issues
+* I am also responsible for doing Releases in production and Manage deployments to environments in coordination with release management
+* And dealing with daily tasks of Resolving tickets related to configuration, access and troubleshooting of platforms infrastructure
+* Support to development teams which, among other things, requires investigation, troubleshooting, problem-solving, 
+5. I work very closely with Development teams and involve and help in all phases of SDLC Process, I involve from Design Phase to the Post Implementation, Automation & Support Phases as well.
+6. In Scripting, I have hands on Shell Scripting, Python.
+7. On the Monitoring side, i have experience working with ELK stack, splunk, Prometheus , Grafana and OpsGuiene for incident management.
+* I am also responsible for managing/dealing with feature flags using LaunchDarkly, like I will create/manage feature flags..
+
+4. At this point of time we are dealing with updating of our openshift from v3.11 to ROSA(Red-hat openshift aws) which is a OCP 4.7, there we are completely recreating our environment. That deal’s with lot of work related to different tools we use.
+
+Overall this is about me at a High level, I will be open for any questions.
