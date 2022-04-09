@@ -9,5 +9,12 @@ pipeline {
 	   echo "hey"
          }
       }
+      stage('build-log-lock') {
+        steps{
+	  script{		      
+	    currentBuild.keepLog = true
+	  }
+	}
+      }
     }
 }
